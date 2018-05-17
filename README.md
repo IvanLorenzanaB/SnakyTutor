@@ -5,7 +5,10 @@ print('What is your name?')
 name = input()  # read a single line and store it in the variable "name"
 print('Hi ' + name + '!')
 ```
-```python
-s = "Python syntax highlighting"
-print s
-```
+# This program reads two numbers and prints their sum:
+a = int(input())
+b = int(input())
+c = int(input())
+print(a + b + c)
+
+# Can you change it so it can add three numbers?
